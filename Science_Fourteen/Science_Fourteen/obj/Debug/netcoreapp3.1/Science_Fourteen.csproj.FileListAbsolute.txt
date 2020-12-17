@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\bin\Debug\netcoreapp3.1\Science_Fourteen.exe
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\bin\Debug\netcoreapp3.1\Science_Fourteen.deps.json
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\bin\Debug\netcoreapp3.1\Science_Fourteen.runtimeconfig.json
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\bin\Debug\netcoreapp3.1\Science_Fourteen.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\bin\Debug\netcoreapp3.1\Science_Fourteen.dll
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\bin\Debug\netcoreapp3.1\Science_Fourteen.pdb
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\obj\Debug\netcoreapp3.1\Science_Fourteen.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\obj\Debug\netcoreapp3.1\Science_Fourteen.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\obj\Debug\netcoreapp3.1\Science_Fourteen.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\obj\Debug\netcoreapp3.1\Science_Fourteen.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\obj\Debug\netcoreapp3.1\Science_Fourteen.dll
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\obj\Debug\netcoreapp3.1\Science_Fourteen.pdb
+C:\Users\Роман\source\repos\Science_Fourteen\Science_Fourteen\obj\Debug\netcoreapp3.1\Science_Fourteen.genruntimeconfig.cache
